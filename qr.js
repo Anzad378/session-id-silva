@@ -15,19 +15,19 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Silva MD Bot*
+*💪 Empowering Your Experience with Anzady MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/SilvaTechB/silva-md-bot
+🔗 https://github.com/Anzad378/ANZADY-MD-bot
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
+https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@silvaedits254
+🪄 https://www.youtube.com/@hazardbayana4999
 
-*🥀 Powered by Silva MD Bot & Silva Tech Inc 🥀*
+*🥀 Powered by Anzad MD Bot & Anzady Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
