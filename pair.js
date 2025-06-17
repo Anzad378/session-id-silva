@@ -113,8 +113,8 @@ router.get('/', async (req, res) => {
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363200367779016@newsletter',
-                                    newsletterName: 'SILVA SESSION GEN 💖',
+                                    newsletterJid: '120363401981451001@newsletter',
+                                    newsletterName: 'kingdom 💖',
                                     serverMessageId: 143
                                 }
                             }
@@ -130,19 +130,19 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Silva MD Bot*
+*💪 Empowering Your Experience with kingdom MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/SilvaTechB/silva-md-bot
+🔗 https://github.com/Anzad378/KINGD0M-MD
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
+https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@silvaedits254
+🪄
 
-*🥀 Powered by Silva MD Bot & Silva Tech Inc 🥀*
+*🥀 Powered by kingdom MD Bot & Silva Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
