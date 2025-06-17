@@ -135,8 +135,7 @@ ______________________________
 *🌟 Show your support by giving our repo a star! 🌟*
 🔗 https://github.com/Anzad378/KINGD0M-MD
 
-*💭 Need help? Join our support groups:*
-📢 💬
+*💭 Need help? Join our support channel:*
 https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
 
 *📚 Learn & Explore More with Tutorials:*
