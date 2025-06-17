@@ -15,10 +15,10 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Anzady MD Bot*
+*💪 Empowering Your Experience with kingdom MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/Anzad378/ANZADY-MD-bot
+🔗 https://github.com/Anzad378/KINGD0M-MD
 
 *💭 Need help? Join our support groups:*
 📢 💬
@@ -27,7 +27,7 @@ https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
 *📚 Learn & Explore More with Tutorials:*
 🪄 https://www.youtube.com/@hazardbayana4999
 
-*🥀 Powered by Anzad MD Bot & Anzady Tech Inc 🥀*
+*🥀 Powered by kingdom MD Bot & Anzady Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
